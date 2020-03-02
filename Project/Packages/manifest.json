@@ -2,8 +2,11 @@
   "dependencies": {
     "com.unity.burst": "1.2.3",
     "com.unity.collab-proxy": "1.2.16",
+    "com.unity.dots.editor": "0.3.0-preview",
+    "com.unity.entities": "0.6.0-preview.24",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.1.4",
+    "com.unity.jobs": "0.2.5-preview.20",
     "com.unity.polybrush": "1.0.1",
     "com.unity.postprocessing": "2.3.0",
     "com.unity.probuilder": "4.2.3",
