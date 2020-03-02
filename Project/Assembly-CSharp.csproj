@@ -211,6 +211,18 @@
     <Reference Include="Unity.Transforms.Hybrid">
       <HintPath>D:/Unity2019-Test/Project/Library/ScriptAssemblies/Unity.Transforms.Hybrid.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.DocZh.Editor">
+      <HintPath>D:/Unity2019-Test/Project/Library/ScriptAssemblies/Unity.DocZh.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.UIWidgets.Editor">
+      <HintPath>D:/Unity2019-Test/Project/Library/ScriptAssemblies/Unity.UIWidgets.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.UIWidgets">
+      <HintPath>D:/Unity2019-Test/Project/Library/ScriptAssemblies/Unity.UIWidgets.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEngineBridge.024">
+      <HintPath>D:/Unity2019-Test/Project/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.024.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Program Files/Unity20180312/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
     </Reference>

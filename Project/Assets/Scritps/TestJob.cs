@@ -17,9 +17,9 @@ using Unity.Mathematics;
 using Unity.IO;
 using Unity.IO.LowLevel;
 using Unity.Jobs.LowLevel.Unsafe;
-//using Unity.Entities;
+using Unity.Entities;
 
 
-public struct TestJob 
+public struct TestJob: IComponentData
 {
 }
